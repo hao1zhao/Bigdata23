@@ -1,0 +1,12 @@
+{
+    "Energy": ["xom", "cvx", "hal", "cop", "dvn"],
+    "Materials": ["fcx"],
+    "Industrials": ["cat", "mmm", "hon", "fdx", "emr"],
+    "Consumer Discretionary": ["amzn", "hd", "bk", "cost", "f"],
+    "Consumer Staples": ["ko", "mo", "cvs", "cl"],
+    "Health Care": ["abt", "amgn", "bmy", "biib", "gild", "bax"],
+    "Financials": ["bac", "gs", "cof", "aig", "brkb"],
+    "Information Technology": ["aapl", "goog", "csco", "acn", "axp", "avgo", "ebay", "hpq"],
+    "Communication Services": ["cmcsa", "t"],
+    "Utilities": ["aep", "exc"]
+}
