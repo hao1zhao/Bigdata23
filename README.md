@@ -1,5 +1,5 @@
 # ECON 
-This repository hosts a comprehensive dataset used in the paper titled "Stock Movement and Volatility Prediction from Tweets, Macroeconomic Factors, and Historical Prices."
+This repository hosts a comprehensive dataset used in the paper titled "[Stock Movement and Volatility Prediction from Tweets, Macroeconomic Factors, and Historical Prices](https://arxiv.org/abs/2312.03758/)."
 
 # Data Component
 The dataset includes information on 42 blue-chip stocks spanning from 01/06/2020 to 31/05/2023. A complete list of these stocks and their respective sectors can be found in the ’Stock_info‘ . This dataset comprises three main components as fellows:
